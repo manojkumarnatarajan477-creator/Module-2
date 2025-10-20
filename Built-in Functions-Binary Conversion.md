@@ -16,5 +16,7 @@ print("Binary representation of",a, "is",b)
 ```
 
 ## Output
+![alt text](<Screenshot 2025-10-20 131215.png>)
 
 ## Result
+The program successfully converts the number 16 into its binary representation using the built-in bin() function.

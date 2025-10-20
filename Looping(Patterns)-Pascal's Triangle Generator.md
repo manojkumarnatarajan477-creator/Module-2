@@ -40,6 +40,9 @@ for i in range(rows):
 ```
 
 ## Sample Output
+![alt text](<Screenshot 2025-10-20 132504.png>)
+
 
 ## Result
 
+The program successfully generates Pascal’s Triangle for the given number of rows using loops and the binomial coefficient formula.

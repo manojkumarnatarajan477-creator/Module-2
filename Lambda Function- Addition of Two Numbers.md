@@ -16,7 +16,9 @@ b = int(input("Enter second number: "))
 f = lambda a, b: a + b
 print("The sum is:", f(a, b))
 ```
-
 ## Output
+![alt text](<Screenshot 2025-10-20 132314.png>)
+
 
 ## Result
+The program successfully defines and executes a lambda function that adds two numbers and displays the result.

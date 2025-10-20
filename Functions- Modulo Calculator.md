@@ -20,5 +20,7 @@ result(x, y)
 ```
 
 ## Output
+![alt text](<Screenshot 2025-10-20 131953.png>)
 
 ## Result
+The program successfully defines a function to calculate and display the modulo of two numbers using the % operator.
